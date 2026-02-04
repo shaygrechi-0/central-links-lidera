@@ -1,0 +1,69 @@
+{
+  "title": "Central de Planilhas e Documentos",
+  "subtitle": "Academia Lidera • Acesso rápido",
+  "links": [
+    {
+      "name": "Formatura",
+      "url": "https://docs.google.com/spreadsheets/d/1tGvxxPu6kN4qFrvfpIICLCjoDbR5ifAcsrI6sTI-OyI/edit?usp=sharing",
+      "category": "Alunos",
+      "type": "Planilha",
+      "tags": [
+        "formatura"
+      ]
+    },
+    {
+      "name": "Pré-inscrição / Pré-matrícula",
+      "url": "https://docs.google.com/spreadsheets/d/130UHOI4WqKIuN56ati-rQci9vwqcjVg_6Z55Q1SStSE/edit?usp=sharing",
+      "category": "Matrículas",
+      "type": "Planilha",
+      "tags": [
+        "pré-inscrição",
+        "pré-matrícula",
+        "captação"
+      ]
+    },
+    {
+      "name": "Respostas do Forms — Cancelamento",
+      "url": "https://docs.google.com/spreadsheets/d/16sMRMp-cBgFMcGtbx-GfUS4Q7kVWY5UAyPdJQzqiyS4/edit?usp=sharing",
+      "category": "Cancelamentos",
+      "type": "Planilha",
+      "tags": [
+        "forms",
+        "cancelamento"
+      ]
+    },
+    {
+      "name": "Procedimento Operacional das Atividades (POP)",
+      "url": "https://docs.google.com/document/d/15VFF7U_9GCSJk4xKBkFh3nDUUDBZvyjUtiLfEO6EqWc/edit?usp=sharing",
+      "category": "Operação",
+      "type": "Documento",
+      "tags": [
+        "procedimentos",
+        "rotina",
+        "processos",
+        "pop"
+      ]
+    },
+    {
+      "name": "Alunos novos e cancelamentos",
+      "url": "https://docs.google.com/spreadsheets/d/115abmjHVvztqaBs1GYTn3zISV3IdKjZVw4kkpk5bBDc/edit?usp=sharing",
+      "category": "Alunos",
+      "type": "Planilha",
+      "tags": [
+        "novos",
+        "cancelamentos"
+      ]
+    },
+    {
+      "name": "Controle de presença dos alunos",
+      "url": "https://docs.google.com/spreadsheets/d/1bBMXiwNwcuZuxtEs1UfyBTDJoYKdJZMtdQWQZkR9G6Y/edit?usp=sharing",
+      "category": "Aulas",
+      "type": "Planilha",
+      "tags": [
+        "presença",
+        "frequência",
+        "chamada"
+      ]
+    }
+  ]
+}
